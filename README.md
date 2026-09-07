@@ -82,8 +82,3 @@ not a business signal, and is excluded from the recommendations below.*
   reasoning and KPIs.
 - **Pitch Deck & Video** — client-facing summary structured as
   situation → actions → deliverables.
-
-## Dataset
-
-Public [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-(~100,000 orders, 2016–2018).
